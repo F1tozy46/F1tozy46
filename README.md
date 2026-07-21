@@ -1,1 +1,31 @@
-# AlfitoRayzha
+# Hi there, I'm Alfito Rayzha Dinoval 👋
+
+A passionate **Software / Informatics Engineer** who loves building cool stuff and learning new technologies.
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on: **[Nama Proyek Utama Kamu]**
+- 🎓 Studying / Majoring in: **Informatics Engineering**
+- ⚡ Tech stack focus: **PHP, Android, Cybersecurity**
+- 📫 How to reach me: **[emailkamu@example.com]** or [LinkedIn](https://linkedin.com/in/username)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
