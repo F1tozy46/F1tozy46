@@ -8,7 +8,7 @@ A passionate **Software / Informatics Engineer** who loves building cool stuff a
 - 🔭 Currently working on: **-**
 - 🎓 Studying / Majoring in: **Informatics Engineering**
 - ⚡ Tech stack focus: **PHP, Android, Cybersecurity**
-- 📫 How to reach me: **[alfitorayzhadinoval.com]** or [LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/alfito-rayzha-dinoval-9223b6308/))
+- 📫 How to reach me: **alfitorayzhadinoval.com** or [LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/alfito-rayzha-dinoval-9223b6308/))
 
 ---
 
