@@ -6,7 +6,7 @@ A passionate **Software / Informatics Engineer** specializing in Web Development
 
 ### 🚀 About Me
 - 🎓 **Education:** Informatics Engineering
-- 🛠️ **Tech Stack:** PHP, Android Development, MySQL, Linux, Cybersecurity
+- 🛠️ **Tech Stack:** PHP, Python, MySQL, Linux, Networking
 - 💻 **Focus:** Building secure, efficient web & mobile applications
 - 🌐 **LinkedIn:** [Alfito Rayzha Dinoval](https://www.linkedin.com/in/alfito-rayzha-dinoval-9223b6308/)
 
@@ -15,10 +15,7 @@ A passionate **Software / Informatics Engineer** specializing in Web Development
 ### 🛠️ Tech Stack & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
